@@ -13,7 +13,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: 
 keywords: FoPt 2025, workshop, COLT 2025 # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-use_custom_favicon
 icon: 🥐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://FoPt-workshop.github.io # the base hostname & protocol for your site

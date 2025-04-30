@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome to the homepage of the first workshop on the Foundations of Post-training (FoPt 2025). FoPt is collocated with COLT 2025, in the beautiful city of Lyon, France. This workshop seeks to explore the theoretical and practical aspects of the post-training of LLMs, across a diversity of domains and abstractions. The workshop aims to bring together experts from diverse fields including theoretical reinforcement learning, optimization, statistical learning theory, as well as more empirical directions, to foster meaningful dialogue and identify critical future research opportunities
+Welcome to the homepage of the first workshop on the Foundations of Post-training (FoPt 2025). FoPt is collocated with COLT 2025 on the 30th of June, 2025, in the beautiful city of Lyon, France. This workshop seeks to explore the theoretical and practical aspects of the post-training of LLMs, across a diversity of domains and abstractions. The workshop aims to bring together experts from diverse fields including theoretical reinforcement learning, optimization, statistical learning theory, as well as more empirical directions, to foster meaningful dialogue and identify critical future research opportunities
 
 As a part of FoPt 2025, we invite paper submissions to a single non-archival track. See our call for papers for more details.

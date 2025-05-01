@@ -1,10 +1,10 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /organizers/
 title: organizers
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -30,7 +30,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
   - align: right
-    image: ayush.jpeg
+    image: ayush.png
     content: ayush.md
     image_circular: true # crops the image to make it circular
     more_info:

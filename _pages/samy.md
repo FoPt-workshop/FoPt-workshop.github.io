@@ -1,0 +1,2 @@
+
+**Samy Jelassi** is a Research Fellow at the Center of Mathematical Sciences and Applications (CMSA) at Harvard University, hosted by Boaz Barak and Sham Kakade. His research focuses on problems related to large language models, spanning problems from creation and optimization of architectures to length generalization. He completed his PhD at Princeton University advised by Boris Hanin.

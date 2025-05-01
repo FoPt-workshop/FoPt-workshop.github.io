@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: Organizers
+title: organizers
 description: 
 nav: true
 nav_order: 3
@@ -13,30 +13,25 @@ profiles:
     image: adam.jpg
     content: adam.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Columbia University</p>
+    more_info:
   - align: left
     image: dylan.jpg
     content: dylan.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Microsoft Research</p>
+    image_circular: true # crops the image to make it circular
+    more_info:
   - align: right
     image: akshay.jpg
     content: akshay.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>Microsoft Research</p>
+    image_circular: true # crops the image to make it circular
+    more_info:
   - align: left
     image: nived.png
     content: nived.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>UC Berkeley</p>
+    image_circular: true # crops the image to make it circular
+    more_info:
   - align: right
     image: ayush.jpeg
     content: ayush.md
     image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>MIT IDSS</p>
+    more_info:
 ---

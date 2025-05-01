@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cfp/
-title: Call for papers
+title: call for papers
 description: FoPt 2025 welcomes submissions in a single non-archival track
 nav: true
 nav_order: 2

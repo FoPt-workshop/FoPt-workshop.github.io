@@ -1,28 +1,42 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Organizers
+description: 
 nav: true
-nav_order: 7
+nav_order: 3
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: adam.jpg
+    content: adam.md
+    image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Columbia University</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: dylan.jpg
+    content: dylan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Microsoft Research</p>
+  - align: right
+    image: akshay.jpg
+    content: akshay.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Microsoft Research</p>
+  - align: left
+    image: nived.png
+    content: nived.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>UC Berkeley</p>
+  - align: right
+    image: ayush.jpeg
+    content: ayush.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>MIT IDSS</p>
 ---

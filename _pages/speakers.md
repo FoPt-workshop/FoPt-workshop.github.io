@@ -13,10 +13,10 @@ profiles:
     image: csaba.png
     content: csaba.md
     image_circular: true # crops the image to make it circular
-    more_info: Deepmind & University of Alberta
+    more_info: 
   - align: left
     image: samy.jpg
     content: samy.md
     image_circular: true # crops the image to make it circular
-    more_info: Harvard University
+    more_info: 
 ---

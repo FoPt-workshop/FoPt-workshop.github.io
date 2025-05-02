@@ -4,7 +4,7 @@ permalink: /cfp/
 title: call for papers
 description: FoPt 2025 welcomes submissions in a single non-archival track
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 The First Workshop on the Foundations of Post-training (FoPt 2025) invites submissions of papers addressing theoretical and empirical challenges in post training in a single non-archival track. Submitted papers can be in short format (up to $4$ pages, excluding references), or long format ($12$ pages, excluding references). Accepted papers will be presented as posters at the workshop. Every paper will be peer reviewed by two to four reviewers and double blind. FoPt will award a best paper award as well as a best reviewer award.

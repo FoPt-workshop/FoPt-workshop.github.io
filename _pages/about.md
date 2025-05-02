@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Collocated with COLT 2025
+subtitle: Collocated with <a href='https://learningtheory.org/colt2025/'>COLT 2025</a>.
 
 profile:
   align: right

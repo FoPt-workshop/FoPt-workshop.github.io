@@ -7,7 +7,7 @@ first_name:
 middle_name: 
 last_name: First Workshop on the Foundations of Post-training
 contact_note: > 
-  You can even add a little note about which of these is the best way to reach you.
+  
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for the FoPt 2025 
 footer_text: 
@@ -39,7 +39,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout

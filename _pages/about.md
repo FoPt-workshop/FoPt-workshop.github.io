@@ -6,14 +6,16 @@ subtitle: Collocated with <a href='https://learningtheory.org/colt2025/'>COLT 20
 
 profile:
   align: right
-  image: fopt.jpg
+  image: >
+    <img class="only-light" src="fopt.jpg" alt="About (light)">
+    <img class="only-dark"  src="fopt_color.png"  alt="About (dark)">
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Jun 30, 2025</p><br>
+    <p>June 30, 2025</p><br>
     <p>Lyon, France</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items

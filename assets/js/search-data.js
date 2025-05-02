@@ -472,18 +472,11 @@ ninja.data = [{
           window.open("mailto:%66%6F%70%74%32%30%32%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/FoPt-workshop", "_blank");
+          window.open("https://twitter.com/FoPt2025", "_blank");
         },
       },{
       id: 'light-theme',

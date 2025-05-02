@@ -14,7 +14,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cfp/";
+            window.location.href = "/registration/";
           },
         },{id: "nav-call-for-papers",
           title: "call for papers",

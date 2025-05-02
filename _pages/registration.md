@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfp/
+permalink: /registration/
 title: registration
 description: 
 nav: true

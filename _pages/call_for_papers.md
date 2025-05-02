@@ -42,7 +42,7 @@ We strongly encourage constructive feedback that can help authors improve their 
 
 ### Formatting and anonymization
 
-Short format submissions are limited to 4 PMLR formatted pages, excluding references. Long format submissions are limited to 12 PMLR formatted pages, excluding references. An additional supplementary file may be uploaded that can include unlimited appendices. Appendices must be uploaded as a separate file.
+Short format submissions are limited to $4$ PMLR formatted pages, excluding references. Long format submissions are limited to $12$ PMLR formatted pages, excluding references. An additional supplementary file may be uploaded that can include unlimited appendices. Appendices must be uploaded as a separate file.
 
 All details, proofs and derivations required to substantiate the results must be included in the submission, or possibly in the appendices. However, submissions will be judged primarily based on the main paper (without appendices), and so enough details, including proof details, must be provided in the main text to convince the reviewers of the submissions’ merits.
 

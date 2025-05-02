@@ -26,9 +26,9 @@ Paper submissions are due on **Friday, May 16th, 2025** and notifications will t
 ### Important dates
 (All dates are in 2025)
 
-Submission deadline: Friday, May 16th, 5:00 PM EST
-Author notification: Friday, May 30th
-Workshop date: Monday, June 30th
+- Submission deadline: Friday, May 16th, 5:00 PM EST
+- Author notification: Friday, May 30th
+- Workshop date: Monday, June 30th
 
 ### Dual submission policy
 

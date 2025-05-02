@@ -9,7 +9,7 @@ profile:
   image: fopt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Jun 30, 2025</p>
+    <p>Jun 30, 2025</p><br>
     <p>Lyon, France</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

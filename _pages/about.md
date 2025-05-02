@@ -2,15 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Collocated with <a href='https://learningtheory.org/colt2025/'>COLT 2025</a>.
+subtitle: Collocated with <a href='https://learningtheory.org/colt2025/'>COLT 2025</a> <br> June 30th, 2025 in Lyon, France
 
 profile:
   align: top
   image: fopt-bw.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>June 30, 2025</p><br>
-    <p>Lyon, France</p>
+  more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

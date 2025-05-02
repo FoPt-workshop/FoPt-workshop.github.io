@@ -6,9 +6,7 @@ subtitle: Collocated with <a href='https://learningtheory.org/colt2025/'>COLT 20
 
 profile:
   align: right
-  image: >
-    <img class="only-light" src="fopt.jpg" alt="About (light)">
-    <img class="only-dark"  src="fopt_color.png"  alt="About (dark)">
+  image: fopt-bw.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>June 30, 2025</p><br>

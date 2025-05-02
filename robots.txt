@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://FoPt-workshop.github.io/sitemap.xml
+Sitemap: https://fopt-workshop.github.io/sitemap.xml

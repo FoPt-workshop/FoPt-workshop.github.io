@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-The First Workshop on the Foundations of Post-training (FoPt 2025) invites submissions of abstracts addressing theoretical and empirical challenges in post training in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Authors are also allowed to submit, in lieu of an abstract, links to papers which have already appeared at a previous conference, or published to Arxiv. The review process will be single-blind (non-anonymized submissions).
+The First Workshop on the Foundations of Post-training (FoPt 2025) invites submissions of abstracts addressing theoretical and empirical challenges in post training in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Authors are also allowed to submit, in lieu of an abstract, papers which have already appeared at a previous conference, or published to Arxiv. The review process will be single-blind (non-anonymized submissions).
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 

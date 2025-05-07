@@ -30,7 +30,8 @@ The workshop solicits contributions addressing fundamental questions related to 
 5. Novel frameworks and abstractions for post-training
     - Models for LLM reasoning abilities, such as chain-of-thought
     - Formalizations for new forms of generalization, e.g., in-context learning and length generalization
-6. More
+6. Other topics
+    - RL / bandits frameworks for LLM fine-tuning
     - Representational abilities of transformers
     - Theoretical foundations of LLMs
 

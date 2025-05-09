@@ -9,33 +9,33 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-registration",
-          title: "registration",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/registration/";
-          },
-        },{id: "nav-call-for-papers",
-          title: "call for papers",
+  },{id: "nav-call-for-abstracts",
+          title: "Call for abstracts",
           description: "FoPt 2025 welcomes submissions in a single non-archival track",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cfp/";
           },
         },{id: "nav-speakers",
-          title: "speakers",
+          title: "Speakers",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/speakers/";
           },
         },{id: "nav-organizers",
-          title: "organizers",
+          title: "Organizers",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/organizers/";
+          },
+        },{id: "nav-registration",
+          title: "Registration",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/registration/";
           },
         },{id: "post-a-post-with-plotly-js",
         

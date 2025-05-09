@@ -1,5 +1,5 @@
 ---
-importance: 1
+importance: 2
 title: Csaba Szepesvári
 affiliation: University of Alberta & Deepmind
 img: assets/img/samy.jpg

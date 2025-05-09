@@ -1,0 +1,1 @@
+**Sadhika Malladi** is a PhD student in computer science at Princeton University, where she work on theoretical machine learning with Sanjeev Arora. Her work focuses on using mathematical insights into deep learning (especially language models) to design and analyze performant and efficient algorithms. Sadhika was recently named a 2025 Siebel Scholar.

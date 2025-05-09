@@ -419,33 +419,33 @@ ninja.data = [{
           section: "News",},{id: "news-workshop",
           title: 'Workshop',
           description: "",
-          section: "News",},{id: "organizers-adam",
-          title: 'Adam',
+          section: "News",},{id: "organizers-adam-block",
+          title: 'Adam Block',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/adam/";
-            },},{id: "organizers-akshay",
-          title: 'Akshay',
+            },},{id: "organizers-akshay-krishnamurthy",
+          title: 'Akshay Krishnamurthy',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/akshay/";
-            },},{id: "organizers-audrey",
-          title: 'Audrey',
+            },},{id: "organizers-audrey-huang",
+          title: 'Audrey Huang',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/audrey/";
-            },},{id: "organizers-ayush",
-          title: 'Ayush',
+            },},{id: "organizers-ayush-sekhari",
+          title: 'Ayush Sekhari',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/ayush/";
-            },},{id: "organizers-dylan",
-          title: 'Dylan',
+            },},{id: "organizers-dylan-foster",
+          title: 'Dylan Foster',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/dylan/";
-            },},{id: "organizers-nived",
-          title: 'Nived',
+            },},{id: "organizers-nived-rajaraman",
+          title: 'Nived Rajaraman',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/nived/";

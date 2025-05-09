@@ -419,7 +419,37 @@ ninja.data = [{
           section: "News",},{id: "news-workshop",
           title: 'Workshop',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "organizers-adam",
+          title: 'Adam',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/adam/";
+            },},{id: "organizers-akshay",
+          title: 'Akshay',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/akshay/";
+            },},{id: "organizers-audrey",
+          title: 'Audrey',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/audrey/";
+            },},{id: "organizers-ayush",
+          title: 'Ayush',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/ayush/";
+            },},{id: "organizers-dylan",
+          title: 'Dylan',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/dylan/";
+            },},{id: "organizers-nived",
+          title: 'Nived',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/nived/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -464,6 +494,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "speakers-csaba-szepesvári",
+          title: 'Csaba Szepesvári',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/csaba/";
+            },},{id: "speakers-samy-jelassi",
+          title: 'Samy Jelassi',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/samy/";
             },},{
         id: 'social-email',
         title: 'email',

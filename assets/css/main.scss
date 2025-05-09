@@ -13,8 +13,6 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill",
   "cv",
-  "tabs",
-  "typograms",
   "font-awesome/fontawesome",
   "font-awesome/brands",
   "font-awesome/solid",
@@ -23,3 +21,47 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.horizontal-speaker img {
+  height: 200px;
+  width: auto;
+}
+
+.horizontal-organizer img {
+  height: 140px;
+  width: auto;
+}
+
+.organizer {
+  width: 180px;
+  flex-direction: column;
+}
+
+.organizer .card-title {
+  font-size: 1rem !important;
+}
+
+.organizer .card-text {
+  font-size: 0.9rem !important;
+}
+
+.organizer .card-body {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+@media (min-width: 460px) {
+  .organizer {
+    width: 420px;
+    flex-direction: row; 
+  }
+
+  .organizer .card-title {
+    font-size: 1.1rem !important;
+  }
+  
+  .organizer .card-body {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  } 
+}

@@ -13,8 +13,13 @@ profiles:
     image: csaba.png
     content: csaba.md
     image_circular: true # crops the image to make it circular
-    more_info: 
+    more_info:
   - align: left
+    image: sadhika.jpeg
+    content: sadhika.md
+    image_circular: true # crops the image to make it circular
+    more_info: 
+  - align: right
     image: samy.jpg
     content: samy.md
     image_circular: true # crops the image to make it circular

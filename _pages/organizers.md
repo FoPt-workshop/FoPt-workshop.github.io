@@ -19,6 +19,11 @@ profiles:
     content: dylan.md
     image_circular: true # crops the image to make it circular
     more_info:
+  - align: left
+    image: audrey.jpg
+    content: audrey.md
+    image_circular: true # crops the image to make it circular
+    more_info:
   - align: right
     image: akshay.jpg
     content: akshay.md

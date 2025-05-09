@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Collocated with <a href='https://learningtheory.org/colt2025/'>COLT 2025</a> <br> June 30th, 2025 in <a href='https://www.ens-lyon.fr/'>Lyon, France</a>
+subtitle: A <a href='https://learningtheory.org/colt2025/'>COLT 2025</a> workshop<br> June 30th, 2025 in <a href='https://www.ens-lyon.fr/'>Lyon, France</a>
 
 profile:
   align: top

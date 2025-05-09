@@ -499,6 +499,11 @@ ninja.data = [{
           description: "",
           section: "Speakers",handler: () => {
               window.location.href = "/speakers/csaba/";
+            },},{id: "speakers-sadhika-malladi",
+          title: 'Sadhika Malladi',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/sadhika/";
             },},{id: "speakers-samy-jelassi",
           title: 'Samy Jelassi',
           description: "",

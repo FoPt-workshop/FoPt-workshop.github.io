@@ -66,6 +66,6 @@ For papers which have previously appeared at a conference/journal/workshop/Arxiv
 
 ### Submitting your paper
 
-Abstarcts should be submitted through Openreview; the deadline for submissions is 5pm EST on Monday, May 19th, 2025.
+Abstarcts should be submitted through OpenReview; the deadline for submissions is 5pm EST on Monday, May 19th, 2025.
 
-Openreview submission site: 
+OpenReview submission site: [OpenReview](https://openreview.net/group?id=learningtheory.org/COLT/2025/Workshop/FoPt#tab-your-consoles)

@@ -1,5 +1,5 @@
 ---
-importance: 2
+importance: 3
 title: Samy Jelassi
 affiliation: Harvard University
 img: assets/img/samy.jpg

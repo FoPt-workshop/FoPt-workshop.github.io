@@ -31,116 +31,20 @@ Welcome to the homepage of the first workshop on the Foundations of Post-trainin
 
 As a part of FoPt 2025, we invite paper submissions to a single non-archival track. See our [call for papers](https://fopt-workshop.github.io/cfp/) for more details.
 
-We are thrilled to have the following researchers joining us for the event.
-
-<div class="speakers">
-{% if site.enable_speaker_categories and page.display_categories %}
-  <!-- Display categorized speakers -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_speakers = site.speakers | where: "category", category %}
-  {% assign sorted_speakers = categorized_speakers | sort: "importance" %}
-  <!-- Generate cards for each speaker -->
-  {% if page.speaker_horizontal %}
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for speaker in sorted_speakers %}
-      {% include speakers_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="d-flex justify-content-between">
-    {% for speaker in sorted_speakers %}
-      <div class="p-2">{% include speakers.liquid %}</div>
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
-
-{% else %}
-
-<!-- Display speakers without categories -->
-
+## Invited Speakers
 {% assign sorted_speakers = site.speakers | sort: "importance" %}
-
-  <!-- Generate cards for each speaker -->
-
-{% if page.speaker_horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for speaker in sorted_speakers %}
-      {% include speakers_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for speaker in sorted_speakers %}
-      {% include speakers.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
-
-<br>
-<!-- Organizers -->
-<h1><b>Organizers</b></h1>
-<p> </p>
-<div class="organizers">
-{% if site.enable_organizer_categories and page.display_categories %}
-  <!-- Display categorized organizers -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_organizers = site.organizers | where: "category", category %}
-  {% assign sorted_organizers = categorized_organizers | sort: "importance" %}
-  <!-- Generate cards for each organizer -->
-  {% if page.organizer_horizontal %}
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for organizer in sorted_organizers %}
-      {% include organizers_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for organizer in sorted_organizers %}
-      {% include organizers.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
+<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
+  {% for speaker in sorted_speakers %}
+    {% include speakers.liquid %}
   {% endfor %}
-
-{% else %}
-
-<!-- Display organizers without categories -->
-
-{% assign sorted_organizers = site.organizers | sort: "importance" %}
-
-  <!-- Generate cards for each organizer -->
-
-{% if page.organizer_horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-2">
-    {% for organizer in sorted_organizers %}
-      {% include organizers_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="grid">
-    {% for organizer in sorted_organizers %}
-      {% include organizers.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>
+<br><br>
+
+## Organizers
+{% assign sorted_organizers = site.organizers | sort: "importance" %}
+<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
+  {% for organizer in sorted_organizers %}
+    {% include organizers.liquid %}
+  {% endfor %}
+</div>
+<br><br>

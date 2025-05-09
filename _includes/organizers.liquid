@@ -1,7 +1,8 @@
-<div class="grid-sizer"></div>
-<div class="grid-item">
-    <div class="card hoverable">
-      {% if organizer.img %}
+<!-- <div class="grid-sizer"></div> -->
+<div>
+    <div class="card hoverable organizer" style="align-items: center;">
+      <div style="width: 180px; height: 140px; overflow: hidden;">
+      <div {% if organizer.horizontal %}class="horizontal-organizer"{% endif %} style="margin-top: -{{organizer.mt}}px; margin-left: -{{organizer.ml}}px; padding-left: {{organizer.pad}}px; padding-right: {{organizer.pad}}px; background-color: aliceblue;">
         {%
           include figure.liquid
           loading="eager"
@@ -9,21 +10,27 @@
           sizes = "250px"
           alt="organizer thumbnail"
         %}
-      {% endif %}
+      </div>
+      </div>
       <div class="card-body">
-        <h2 class="card-title">{{ organizer.name }}</h2>
-        <div class="card-text">{{ organizer.affiliation }}
-        <div style="float:right;">
-          {% if organizer.website %}
-                <a href="{{ organizer.website }}"><i class="ti ti-home"></i></a>
+        <h2 class="card-title" style="margin-bottom: 0.1rem">{{ organizer.title }}</h2>
+        <p class="card-text" style="margin-bottom: 0.5rem">{{ organizer.affiliation }}</p>
+        <div style="display: flex; gap: 10px; font-size: 0.9rem">
+          {% if organizer.homepage %}
+          <div class="icon" data-toggle="tooltip" title="Homepage">
+            <a href="{{ organizer.homepage }}"><i class="fa-solid fa-globe"></i></a>
+          </div>
           {% endif %}
           {% if organizer.scholar %}
-                <a href="{{ organizer.scholar }}"><i class="ai ai-google-scholar"></i></a>
+          <div class="icon" data-toggle="tooltip" title="Google Scholar">
+            <a href="https://scholar.google.de/citations?user={{ organizer.scholar }}"><i class="fa-brands fa-google-scholar"></i></a>
+          </div>
           {% endif %}
           {% if organizer.twitter %}
-                <a href="{{ organizer.twitter }}"><i class="fa-brands fa-twitter gh-icon"></i></a>
+          <div class="icon" data-toggle="tooltip" title="Twitter / X">
+            <a href="https://twitter.com/{{ organizer.twitter }}"><i class="fa-brands fa-twitter"></i></a>
+          </div>
           {% endif %}
-        </div>
         </div>
       </div>
     </div>

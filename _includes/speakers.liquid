@@ -1,0 +1,37 @@
+<!-- <div class="grid-sizer"></div> -->
+<div style="max-width: 200px">
+    <div class="card hoverable">
+      <div style="width: 200px; height: 200px; overflow: hidden;">
+      <div {% if speaker.horizontal %}class="horizontal-speaker"{% endif %} style="margin-top: -{{speaker.mt}}px; margin-left: -{{speaker.ml}}px">
+        {%
+          include figure.liquid
+          loading="eager"
+          path=speaker.img
+          sizes = "250px"
+          alt="speaker thumbnail"
+        %}
+      </div>
+      </div>
+      <div class="card-body">
+        <h2 class="card-title" style="font-size: 1.1rem; margin-bottom: 0.1rem">{{ speaker.title }}</h2>
+        <p class="card-text" style="margin-bottom: 0.5rem">{{ speaker.affiliation }}</p>
+        <div style="display: flex; gap: 10px; font-size: 0.9rem">
+          {% if speaker.homepage %}
+          <div class="icon" data-toggle="tooltip" title="Homepage">
+            <a href="{{ speaker.homepage }}"><i class="fa-solid fa-globe"></i></a>
+          </div>
+          {% endif %}
+          {% if speaker.scholar %}
+          <div class="icon" data-toggle="tooltip" title="Google Scholar">
+            <a href="https://scholar.google.de/citations?user={{ speaker.scholar }}"><i class="fa-brands fa-google-scholar"></i></a>
+          </div>
+          {% endif %}
+          {% if speaker.twitter %}
+          <div class="icon" data-toggle="tooltip" title="Twitter / X">
+            <a href="https://twitter.com/{{ speaker.twitter }}"><i class="fa-brands fa-twitter"></i></a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+</div>

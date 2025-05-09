@@ -1,6 +1,6 @@
 ---
 importance: 6
-name: Ayush Sekhari
+title: Ayush Sekhari
 affiliation: MIT
 img: assets/img/ayush.png
 category: organizer

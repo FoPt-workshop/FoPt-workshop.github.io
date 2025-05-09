@@ -1,6 +1,6 @@
 ---
 importance: 5
-name: Nived Rajaraman
+title: Nived Rajaraman
 affiliation: UC Berkeley
 img: assets/img/nived.png
 category: organizer

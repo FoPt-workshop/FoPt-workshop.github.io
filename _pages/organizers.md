@@ -19,22 +19,22 @@ profiles:
     content: dylan.md
     image_circular: true # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: audrey.jpg
     content: audrey.md
     image_circular: true # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: akshay.jpg
     content: akshay.md
     image_circular: true # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: nived.png
     content: nived.md
     image_circular: true # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: ayush.png
     content: ayush.md
     image_circular: true # crops the image to make it circular

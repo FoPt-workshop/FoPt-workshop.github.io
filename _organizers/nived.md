@@ -4,7 +4,8 @@ name: Nived Rajaraman
 affiliation: UC Berkeley
 img: assets/img/nived.png
 category: organizer
-website: https://nivedr.github.io/
+homepage: https://nivedr.github.io/
 scholar: ZvX1hXcAAAAJ
+twitter: Nived_Rajaraman
 ml: 30
 ---

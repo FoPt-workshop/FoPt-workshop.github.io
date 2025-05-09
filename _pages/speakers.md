@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /speakers/
-title: speakers
+title: Speakers
 description: 
 nav: true
 nav_order: 3

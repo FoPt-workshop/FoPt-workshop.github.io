@@ -1,7 +1,7 @@
 <!-- <div class="grid-sizer"></div> -->
 <div>
     <div class="card hoverable organizer" style="align-items: center;">
-      <div style="width: 180px; height: 140px; overflow: hidden;">
+      <div style="width: 180px; height: 140px; object-fit: scale-down">
       <div {% if organizer.horizontal %}class="horizontal-organizer"{% endif %} style="margin-top: -{{organizer.mt}}px; margin-left: -{{organizer.ml}}px; padding-left: {{organizer.pad}}px; padding-right: {{organizer.pad}}px; background-color: aliceblue;">
         {%
           include figure.liquid

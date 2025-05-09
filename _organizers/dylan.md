@@ -5,6 +5,7 @@ affiliation: Microsoft Research
 img: assets/img/dylan.jpg
 mt: 5
 category: organizer
-website: https://dylanfoster.net/
+homepage: https://dylanfoster.net/
 scholar: RqwU8xsAAAAJ
+twitter: canondetortugas
 ---

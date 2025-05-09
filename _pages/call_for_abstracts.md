@@ -1,41 +1,39 @@
 ---
 layout: page
 permalink: /cfp/
-title: call for papers
+title: Call for abstracts
 description: FoPt 2025 welcomes submissions in a single non-archival track
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
-The First Workshop on the Foundations of Post-training (FoPt 2025) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Authors are also allowed to submit, in lieu of an abstract, papers which have already appeared at a previous conference or published to Arxiv. The review process will be single-blind (non-anonymized submissions).
+The First Workshop on the Foundations of Post-training (FoPt 2025) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Paper submissions are due on **Monday, May 19th, 2025** and notifications will tentatively be sent out on the 26th of May.
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 
-1. Computational and statistical foundations of alignment
+1. **Computational and statistical foundations of alignment**
     - Fine-tuning algorithms
     - Inference-time methods
     - Interactions between pre-training and post-training
-2. Optimization landscape of post-training
+2. **Optimization landscape of post-training**
     - Stability of fine-tuning methods
     - Convergence guarantees
-3. New and old models of supervision
+3. **New and old models of supervision**
     - Alternative forms of feedback, such as comparisons and corrections
     - Offline vs interactive feedback
     - Demonstration or chain-of-thought design
-4. Guarantees for emerging learning paradigms
+4. **Guarantees for emerging learning paradigms**
     - Weak-to-strong generalization
     - Self-improvement and self-correction
     - Multi-agent learning
     - prompt or retrieval-based adaptation
-5. Novel frameworks and abstractions for post-training
+5. **Novel frameworks and abstractions for post-training**
     - Models for LLM reasoning abilities, such as chain-of-thought
     - Formalizations for new forms of generalization, e.g., in-context learning and length generalization
-6. Other topics
+6. **Other topics**
     - RL / bandits frameworks for LLM fine-tuning
     - Representational abilities of transformers
     - Theoretical foundations of LLMs
-
-Paper submissions are due on **Monday, May 19th, 2025** and notifications will tentatively be sent out on the 26th of May.
 
 ### Important dates
 (All dates are in 2025)
@@ -46,7 +44,7 @@ Paper submissions are due on **Monday, May 19th, 2025** and notifications will t
 
 ### Dual submission policy
 
-Since the workshop is non-archival, FoPt invites submissions that may be substantially similar to papers that have previously been published, accepted for publication, or submitted in parallel to a peer-reviewed conference or journal. Submitted abstracts need not be anonymized.
+Since the workshop is non-archival, FoPt invites submissions that may be substantially similar to abstracts/papers that have previously been published, accepted for publication, or submitted in parallel to a peer-reviewed conference or journal. Submitted abstracts need not be anonymized.
 
 ## Submission Instructions
 
@@ -68,6 +66,6 @@ For papers which have previously appeared at a conference/journal/workshop/Arxiv
 
 ### Submitting your paper
 
-Papers should be submitted through Openreview; the deadline for submissions is 5pm EST on Monday, May 19th, 2025.
+Abstarcts should be submitted through Openreview; the deadline for submissions is 5pm EST on Monday, May 19th, 2025.
 
 Openreview submission site: 

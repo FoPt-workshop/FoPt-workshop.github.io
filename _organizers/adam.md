@@ -5,6 +5,6 @@ affiliation: Columbia University
 img: assets/img/adam.jpg
 mt: 30
 category: organizer
-website: https://abblock.github.io/
+homepage: https://abblock.github.io/
 scholar: yWzWF2MAAAAJ
 ---

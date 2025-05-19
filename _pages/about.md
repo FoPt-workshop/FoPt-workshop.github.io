@@ -29,7 +29,7 @@ organizer_horizontal: true
 
 Welcome to the homepage of the first workshop on the Foundations of Post-training (FoPt 2025). FoPt is located at COLT 2025 and will be organized in the beautiful city of Lyon, France on the 30th of June, 2025. This workshop seeks to explore the theoretical and practical aspects of the post-training of LLMs, across a diversity of domains and abstractions. The workshop aims to bring together experts from diverse fields including theoretical reinforcement learning, optimization, statistical learning theory, as well as more empirical directions, to identify critical research opportunities.
 
-As a part of FoPt 2025, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Monday, May 19th, 2025**.
+As a part of FoPt 2025, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Wednesday, May 21st, 2025**.
 
 ## Invited Speakers
 {% assign sorted_speakers = site.speakers | sort: "importance" %}

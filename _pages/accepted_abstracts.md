@@ -4,7 +4,7 @@ permalink: /accepted-abstracts/
 title: Accepted abstracts
 description: 
 nav: true
-nav_order: 3
+nav_order: 7
 --- -->
 
 <!-- _pages/publications.md -->

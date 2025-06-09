@@ -4,7 +4,7 @@ permalink: /registration/
 title: Registration
 description: 
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 Registration for FoPt 2025 is automatically included in the registration fee for COLT 2025.

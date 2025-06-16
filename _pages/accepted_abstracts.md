@@ -5,7 +5,7 @@ title: Accepted abstracts
 description: 
 nav: true
 nav_order: 3
---- -->
+---
 
 <!-- _pages/publications.md -->
 
@@ -13,10 +13,4 @@ nav_order: 3
 
 <!-- This section will be populated soon -->
 
-{% include bib_search.liquid %}
 
-<div class="publications">
-
-{% bibliography %}
-
-</div>

@@ -13,4 +13,10 @@ nav_order: 3
 
 <!-- This section will be populated soon -->
 
+{% include bib_search.liquid %}
 
+<div class="publications">
+
+{% bibliography %}
+
+</div>

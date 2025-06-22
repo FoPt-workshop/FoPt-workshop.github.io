@@ -264,8 +264,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: 
-  first_name: 
+  last_name: [Rajaraman]
+  first_name: [Nived]
 
   style: apa
   locale: en

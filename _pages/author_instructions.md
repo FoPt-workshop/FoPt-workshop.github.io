@@ -23,6 +23,8 @@ Here are the pertinent details:
 | 2:55pm to 3:35pm | Talk by Csaba Szepesvari <title> |
 | 3:35pm to 4:30pm |     Posters and coffee break     |
 
+<br>
+
 For more details surrounding COLT, hotel accommodation and visa sponsorship, please refer to the [COLT website](https://colt2025.univ-lyon1.fr/en/pages/colt-2025-home).
 
 ### Poster details

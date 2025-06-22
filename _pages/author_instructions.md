@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cfp/
+permalink: /author-instructions/
 title: Author Instructions
 description: Logistics and information about poster
 nav: false

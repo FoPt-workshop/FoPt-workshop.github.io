@@ -40,9 +40,9 @@ As a part of FoPt 2025, we invite abstract submissions to a single non-archival 
 |     **Time**     |           **Activity**           |
 |:----------------:|:--------------------------------:|
 | 1:30pm to 1:35pm |          Opening Remarks         |
-| 1:35pm to 2:15pm |   Invited talk 1 (Samy Jelassi) |
-| 2:15pm to 2:55pm |  Invited talk 2 (Sadhika Malladi) |
-| 2:55pm to 3:35pm | Invited talk 3 (Csaba Szepesvári) |
+| 1:35pm to 2:15pm |   Invited talk 1 ([Samy Jelassi](https://fopt-workshop.github.io/speakers/samy-talk)) |
+| 2:15pm to 2:55pm |  Invited talk 2 ([Sadhika Malladi](https://fopt-workshop.github.io/speakers/sadhika-talk)) |
+| 2:55pm to 3:35pm | Invited talk 3 ([Csaba Szepesvári](https://fopt-workshop.github.io/speakers/csaba-talk)) |
 | 3:35pm to 4:30pm |     Posters and coffee break     |
 
 <br>

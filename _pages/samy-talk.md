@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /samy-talk
+title: Understanding RL with Verifiable Rewards through Distribution Sharpening
+description: [Samy Jelassi](https://fopt-workshop.github.io/speakers/)
+nav: false
+---
+
+### Abstract
+
+Reinforcement Learning has become a crucial step in training state-of-the-art language models for solving mathematical problems. Following the success of frontier reasoning models, recent work has demonstrated that RL fine-tuning consistently improves performance, even in smaller-scale models. However, the degree and rate of this improvement crucially depends on the choice of the pretrained model. This emphasizes the importance of understanding the role of the pretraining dataset as a key (hidden) factor in determining the success of RL. In this talk, I will present a systematic end-to-end study of RL fine-tuning for mathematical reasoning, training models entirely from scratch on different mixtures of fully open datasets and fine-tuning them with RL. Doing so allows us to investigate the effects of the pretraining data mixture on the behavior of RL, and its interaction with the model size and choices of the algorithm hyperparameters. Our study reveals that RL algorithms consistently converge towards a dominant output distribution, amplifying patterns in the pretraining data.. Motivated by this finding, I will present in the second part of my talk, Prefix-RL. Instead of directly finetuning a reference model as in standard RL-finetuning, we finetune a small model to generate only the first $k$ tokens (e.g. $k=32$) of each solution, and then, generate the remainder of the response from the base model. We demonstrate that Prefix-RL offers significant improvements in accuracy across different choices of models and benchmarks for a tiny fraction of the training compute required for running standard RL methods.  This talk is based on joint works with Rosie Zhao, Alex Meterez, Itamar Rocha Filho, Cengiz Pehlevan, Sham Kakade and Eran Malach.

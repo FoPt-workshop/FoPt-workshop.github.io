@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: speakers/sadhika-talk
+permalink: sadhika-talk
 title: Failure Modes of Preference Learning
 description: [Sadhika Malladi](https://fopt-workshop.github.io/speakers/)
 nav: false

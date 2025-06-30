@@ -56,15 +56,15 @@ As a part of FoPt 2025, we invite abstract submissions to a single non-archival 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 4px; text-align: center;">1:35pm to 2:15pm</td>
-    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 1 (<a href="https://fopt-workshop.github.io/speakers/samy-talk">Samy Jelassi</a>)</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 1 (<a href="https://fopt-workshop.github.io/samy-talk">Samy Jelassi</a>)</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 4px; text-align: center;">2:15pm to 2:55pm</td>
-    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 2 (<a href="https://fopt-workshop.github.io/speakers/sadhika-talk">Sadhika Malladi</a>)</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 2 (<a href="https://fopt-workshop.github.io/sadhika-talk">Sadhika Malladi</a>)</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 4px; text-align: center;">2:55pm to 3:35pm</td>
-    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 3 (<a href="https://fopt-workshop.github.io/speakers/csaba-talk">Csaba Szepesvári</a>)</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 3 (<a href="https://fopt-workshop.github.io/csaba-talk">Csaba Szepesvári</a>)</td>
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 4px; text-align: center;">3:35pm to 4:30pm</td>

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /csaba-talk
+permalink: speakers/csaba-talk
 title: What will it take to make LLMs reason?
 description: [Csaba Szepesvári](https://fopt-workshop.github.io/speakers/)
 nav: false

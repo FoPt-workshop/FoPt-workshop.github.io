@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /samy-talk
+permalink: speakers/samy-talk
 title: Understanding RL with Verifiable Rewards through Distribution Sharpening
 description: [Samy Jelassi](https://fopt-workshop.github.io/speakers/)
 nav: false

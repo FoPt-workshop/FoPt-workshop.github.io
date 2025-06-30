@@ -31,6 +31,21 @@ Welcome to the homepage of the first workshop on the Foundations of Post-trainin
 
 As a part of FoPt 2025, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Wednesday, May 21st, 2025**.
 
+## Workshop details
+
+**Date:** Monday, 30th June, 2025, 1:30pm to 4:30pm CET <br>
+**Location:** Mérieux Amphitheater, ENS Lyon ([address](https://g.co/kgs/PSQrWwF)) <br>
+**Tentative schedule:** <br>
+
+|     **Time**     |           **Activity**           |
+|:----------------:|:--------------------------------:|
+| 1:30pm to 1:35pm |          Opening Remarks         |
+| 1:35pm to 2:15pm |   Talk by Samy Jelassi "Understanding RL with Verifiable Rewards through Distribution Sharpening"   |
+| 2:15pm to 2:55pm |  Talk by Sadhika Malladi "Failure Modes of Preference Learning" |
+| 2:55pm to 3:35pm | Talk by Csaba Szepesvari "" |
+| 3:35pm to 4:30pm |     Posters and coffee break     |
+
+
 ## Invited Speakers
 {% assign sorted_speakers = site.speakers | sort: "importance" %}
 <div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
@@ -39,6 +54,7 @@ As a part of FoPt 2025, we invite abstract submissions to a single non-archival 
   {% endfor %}
 </div>
 <br><br>
+
 
 ## Organizers
 {% assign sorted_organizers = site.organizers | sort: "importance" %}

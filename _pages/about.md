@@ -37,13 +37,40 @@ As a part of FoPt 2025, we invite abstract submissions to a single non-archival 
 **Location:** ([Mérieux Amphitheater, ENS Lyon](https://g.co/kgs/PSQrWwF)) <br>
 **Schedule:** <br>
 
-|     **Time**     |           **Activity**           |
+<!-- |     **Time**     |           **Activity**           |
 |:----------------:|:--------------------------------:|
 | 1:30pm to 1:35pm |          Opening Remarks         |
 | 1:35pm to 2:15pm |   Invited talk 1 ([Samy Jelassi](https://fopt-workshop.github.io/speakers/samy-talk)) |
 | 2:15pm to 2:55pm |  Invited talk 2 ([Sadhika Malladi](https://fopt-workshop.github.io/speakers/sadhika-talk)) |
 | 2:55pm to 3:35pm | Invited talk 3 ([Csaba Szepesvári](https://fopt-workshop.github.io/speakers/csaba-talk)) |
-| 3:35pm to 4:30pm |     Posters and coffee break     |
+| 3:35pm to 4:30pm |     Posters and coffee break     | -->
+
+<table style="border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <th style="border: 1px solid black; padding: 4px;">Time</th>
+    <th style="border: 1px solid black; padding: 4px;">Activity</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">1:30pm to 1:35pm</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Opening Remarks</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">1:35pm to 2:15pm</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 1 (<a href="https://fopt-workshop.github.io/speakers/samy-talk">Samy Jelassi</a>)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">2:15pm to 2:55pm</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 2 (<a href="https://fopt-workshop.github.io/speakers/sadhika-talk">Sadhika Malladi</a>)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">2:55pm to 3:35pm</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Invited talk 3 (<a href="https://fopt-workshop.github.io/speakers/csaba-talk">Csaba Szepesvári</a>)</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">3:35pm to 4:30pm</td>
+    <td style="border: 1px solid black; padding: 4px; text-align: center;">Posters and coffee break</td>
+  </tr>
+</table>
 
 <br>
 

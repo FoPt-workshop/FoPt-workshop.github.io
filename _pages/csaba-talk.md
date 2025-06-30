@@ -2,7 +2,7 @@
 layout: page
 permalink: /csaba-talk
 title: What will it take to make LLMs reason?
-description: [Csaba Szepesvári](https://fopt-workshop.github.io/speakers/)
+description: <a href='https://fopt-workshop.github.io/speakers/'>Csaba Szepesvári</a>
 nav: false
 ---
 

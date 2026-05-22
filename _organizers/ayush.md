@@ -1,5 +1,5 @@
 ---
-importance: 4
+importance: 2
 title: Ayush Sekhari
 affiliation: Chan Zuckerberg Initiative
 img: assets/img/ayush.png

@@ -50,7 +50,7 @@ Invited speakers will be announced soon. Stay tuned!
 
 {% assign sorted_organizers = site.organizers | sort: "importance" %}
 
-<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
+<div style="margin-top: 20px; display: grid; grid-template-columns: repeat(2, max-content); gap: 20px; justify-content: center;">
   {% for organizer in sorted_organizers %}
     {% include organizers.liquid %}
   {% endfor %}

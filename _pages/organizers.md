@@ -15,18 +15,18 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
   - align: left
+    image: ayush.png
+    content: ayush.md
+    image_circular: true # crops the image to make it circular
+    more_info:
+  - align: right
     image: akshay.jpg
     content: akshay.md
     image_circular: true # crops the image to make it circular
     more_info:
-  - align: right
+  - align: left
     image: dylan.jpg
     content: dylan.md
-    image_circular: true # crops the image to make it circular
-    more_info:
-  - align: left
-    image: ayush.png
-    content: ayush.md
     image_circular: true # crops the image to make it circular
     more_info:
 ---

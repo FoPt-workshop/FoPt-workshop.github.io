@@ -12,30 +12,31 @@ The Second Workshop on the Foundations of Post-training (FoPt 2026) invites subm
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 
 1. **Computational and statistical foundations of alignment**
-    - Fine-tuning algorithms
-    - Inference-time methods
-    - Interactions between pre-training and post-training
+   - Fine-tuning algorithms
+   - Inference-time methods
+   - Interactions between pre-training and post-training
 2. **Optimization landscape of post-training**
-    - Stability of fine-tuning methods
-    - Convergence guarantees
+   - Stability of fine-tuning methods
+   - Convergence guarantees
 3. **New and old models of supervision**
-    - Alternative forms of feedback, such as comparisons and corrections
-    - Offline vs interactive feedback
-    - Demonstration or chain-of-thought design
+   - Alternative forms of feedback, such as comparisons and corrections
+   - Offline vs interactive feedback
+   - Demonstration or chain-of-thought design
 4. **Guarantees for emerging learning paradigms**
-    - Weak-to-strong generalization
-    - Self-improvement and self-correction
-    - Multi-agent learning
-    - prompt or retrieval-based adaptation
+   - Weak-to-strong generalization
+   - Self-improvement and self-correction
+   - Multi-agent learning
+   - prompt or retrieval-based adaptation
 5. **Novel frameworks and abstractions for post-training**
-    - Models for LLM reasoning abilities, such as chain-of-thought
-    - Formalizations for new forms of generalization, e.g., in-context learning and length generalization
+   - Models for LLM reasoning abilities, such as chain-of-thought
+   - Formalizations for new forms of generalization, e.g., in-context learning and length generalization
 6. **Other topics**
-    - RL / bandits frameworks for LLM fine-tuning
-    - Representational abilities of transformers
-    - Theoretical foundations of LLMs
+   - RL / bandits frameworks for LLM fine-tuning
+   - Representational abilities of transformers
+   - Theoretical foundations of LLMs
 
 ### Important dates
+
 (All dates are in 2026)
 
 - Submission deadline: Friday, June 12th, 11:59 PM UTC

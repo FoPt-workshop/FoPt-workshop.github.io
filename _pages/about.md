@@ -46,9 +46,10 @@ Detailed schedule TBD.
 Invited speakers will be announced soon. Stay tuned!
 <br><br>
 
-
 ## Organizers
+
 {% assign sorted_organizers = site.organizers | sort: "importance" %}
+
 <div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
   {% for organizer in sorted_organizers %}
     {% include organizers.liquid %}

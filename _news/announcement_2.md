@@ -6,5 +6,4 @@ inline: true
 related_posts: false
 ---
 
-
 Author notification

@@ -2,7 +2,7 @@
 layout: page
 permalink: /accepted-abstracts/
 title: Accepted abstracts
-description: 
+description:
 nav: true
 nav_order: 3
 ---

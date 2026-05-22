@@ -1,8 +1,13 @@
 <!-- <div class="grid-sizer"></div> -->
 <div>
-    <div class="card hoverable organizer" style="align-items: center;">
-      <div style="width: 180px; height: 140px; overflow: hidden;">
-      <div {% if organizer.horizontal %}class="horizontal-organizer"{% endif %} style="margin-top: -{{organizer.mt}}px; margin-left: -{{organizer.ml}}px; padding-left: {{organizer.pad}}px; padding-right: {{organizer.pad}}px; background-color: aliceblue;">
+  <div class="card hoverable organizer" style="align-items: center;">
+    <div style="width: 180px; height: 140px; overflow: hidden;">
+      <div
+        {% if organizer.horizontal %}
+          class="horizontal-organizer"
+        {% endif %}
+        style="margin-top: -{{organizer.mt}}px; margin-left: -{{organizer.ml}}px; padding-left: {{organizer.pad}}px; padding-right: {{organizer.pad}}px; background-color: aliceblue;"
+      >
         {%
           include figure.liquid
           loading="eager"
@@ -11,27 +16,27 @@
           alt="organizer thumbnail"
         %}
       </div>
-      </div>
-      <div class="card-body">
-        <h2 class="card-title" style="margin-bottom: 0.1rem">{{ organizer.title }}</h2>
-        <p class="card-text" style="margin-bottom: 0.5rem">{{ organizer.affiliation }}</p>
-        <div style="display: flex; gap: 10px; font-size: 0.9rem">
-          {% if organizer.homepage %}
+    </div>
+    <div class="card-body">
+      <h2 class="card-title" style="margin-bottom: 0.1rem">{{ organizer.title }}</h2>
+      <p class="card-text" style="margin-bottom: 0.5rem">{{ organizer.affiliation }}</p>
+      <div style="display: flex; gap: 10px; font-size: 0.9rem">
+        {% if organizer.homepage %}
           <div class="icon" data-toggle="tooltip" title="Homepage">
             <a href="{{ organizer.homepage }}"><i class="fa-solid fa-globe"></i></a>
           </div>
-          {% endif %}
-          {% if organizer.scholar %}
+        {% endif %}
+        {% if organizer.scholar %}
           <div class="icon" data-toggle="tooltip" title="Google Scholar">
             <a href="https://scholar.google.de/citations?user={{ organizer.scholar }}"><i class="fa-brands fa-google-scholar"></i></a>
           </div>
-          {% endif %}
-          {% if organizer.twitter %}
+        {% endif %}
+        {% if organizer.twitter %}
           <div class="icon" data-toggle="tooltip" title="Twitter / X">
             <a href="https://twitter.com/{{ organizer.twitter }}"><i class="fa-brands fa-twitter"></i></a>
           </div>
-          {% endif %}
-        </div>
+        {% endif %}
       </div>
     </div>
+  </div>
 </div>

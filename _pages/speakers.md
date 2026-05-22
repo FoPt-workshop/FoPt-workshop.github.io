@@ -2,7 +2,7 @@
 layout: page
 permalink: /speakers/
 title: Speakers
-description: 
+description:
 nav: true
 nav_order: 4
 ---

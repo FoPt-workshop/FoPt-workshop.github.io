@@ -1,7 +1,7 @@
 ---
 importance: 4
 title: Ayush Sekhari
-affiliation: MIT
+affiliation: Chan Zuckerberg Initiative
 img: assets/img/ayush.png
 category: organizer
 homepage: https://ayush.sekhari.com/

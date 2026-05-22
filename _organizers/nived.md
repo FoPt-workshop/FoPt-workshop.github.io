@@ -1,7 +1,7 @@
 ---
 importance: 1
 title: Nived Rajaraman
-affiliation: UC Berkeley
+affiliation: Microsoft Research
 img: assets/img/nived.png
 category: organizer
 homepage: https://nivedr.github.io/

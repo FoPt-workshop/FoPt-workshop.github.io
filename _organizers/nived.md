@@ -1,5 +1,5 @@
 ---
-importance: 5
+importance: 1
 title: Nived Rajaraman
 affiliation: UC Berkeley
 img: assets/img/nived.png

@@ -1,5 +1,5 @@
 ---
-importance: 6
+importance: 4
 title: Ayush Sekhari
 affiliation: MIT
 img: assets/img/ayush.png

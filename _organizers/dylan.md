@@ -1,5 +1,5 @@
 ---
-importance: 2
+importance: 3
 title: Dylan Foster
 affiliation: Microsoft Research
 img: assets/img/dylan.jpg

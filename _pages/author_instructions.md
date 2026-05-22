@@ -11,27 +11,17 @@ Here are the pertinent details:
 
 ### Workshop details
 
-**Date:** Monday, 30th June, 2025, 1:30pm to 4:30pm CET <br>
-**Location:** Mérieux Amphitheater, ENS Lyon ([address](https://g.co/kgs/PSQrWwF)) <br>
-**Tentative schedule:** <br>
-
-|     **Time**     |           **Activity**           |
-|:----------------:|:--------------------------------:|
-| 1:30pm to 1:35pm |          Opening Remarks         |
-| 1:35pm to 2:15pm |   Talk by Samy Jelassi <title>   |
-| 2:15pm to 2:55pm |  Talk by Sadhika Malladi <title> |
-| 2:55pm to 3:35pm | Talk by Csaba Szepesvari <title> |
-| 3:35pm to 4:30pm |     Posters and coffee break     |
+**Date:** Monday, 29th June, 2026 <br>
+**Location:** San Diego, USA (venue TBD) <br>
+**Tentative schedule:** TBD
 
 <br>
 
-For more details surrounding COLT, hotel accommodation and visa sponsorship, please refer to the [COLT website](https://colt2025.univ-lyon1.fr/en/pages/colt-2025-home).
+For more details surrounding COLT, hotel accommodation and visa sponsorship, please refer to the [COLT website](https://learningtheory.org/colt2026/).
 
 ### Poster details
 
 **Preferred dimensions:** up to 36in x 48in or A0-size (portrait or landscape) <br>
-**Printing your poster near the venue:**
-- [Bureau Vallée Lyon 7ème - papeterie et photocopie](https://magasins.bureau-vallee.fr/fr/france-33/rhone-69/lyon-7-69387/lyon-7eme-BV483) ([address](https://g.co/kgs/G57U19S))
-- [Corep](https://www.corep.fr/agence/corep-lyon-grange-blanche/) ([address](https://g.co/kgs/GeFapK9))
+**Printing your poster near the venue:** TBD
 
-We look forward to seeing you at COLT in July!
+We look forward to seeing you at COLT in June!

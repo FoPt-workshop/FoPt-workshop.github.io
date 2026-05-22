@@ -1,5 +1,5 @@
 ---
-importance: 4
+importance: 2
 title: Akshay Krishnamurthy
 affiliation: Microsoft Research
 img: assets/img/akshay.jpg

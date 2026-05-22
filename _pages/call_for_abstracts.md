@@ -2,12 +2,12 @@
 layout: page
 permalink: /cfp/
 title: Call for abstracts
-description: FoPt 2025 welcomes submissions in a single non-archival track
+description: FoPt 2026 welcomes submissions in a single non-archival track
 nav: true
 nav_order: 2
 ---
 
-The First Workshop on the Foundations of Post-training (FoPt 2025) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Paper submissions are due on **Wednesday, May 21st, 2025**.
+The Second Workshop on the Foundations of Post-training (FoPt 2026) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Paper submissions are due on **Friday, June 12th, 2026**.
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 
@@ -36,11 +36,11 @@ The workshop solicits contributions addressing fundamental questions related to 
     - Theoretical foundations of LLMs
 
 ### Important dates
-(All dates are in 2025)
+(All dates are in 2026)
 
-- Submission deadline: Wednesday, May 21st, 11:59 PM UTC
-- Author notification: Monday, May 26th
-- Workshop date: Monday, June 30th
+- Submission deadline: Friday, June 12th, 11:59 PM UTC
+- Author notification: Friday, June 19th
+- Workshop date: Monday, June 29th
 
 ### Dual submission policy
 
@@ -60,12 +60,12 @@ Submitted abstracts are limited to one page, excluding references. Authors are p
 
 **Style files:** For submitted one-page abstracts, please use the COLT style file, linked below.
 
-- [LaTeX style files and template](https://learningtheory.org/colt2025/COLT2025_style.zip)
+- [LaTeX style files and template](https://learningtheory.org/colt2026/)
 
 For papers which have previously appeared at a conference/journal/workshop/Arxiv, there is no page limit or formatting constraint.
 
 ### Submitting your paper
 
-Abstarcts should be submitted through OpenReview; the deadline for submissions is 5pm EST on Monday, May 19th, 2025.
+Abstracts should be submitted through OpenReview; the deadline for submissions is **Friday, June 12th, 2026, 11:59 PM UTC**.
 
-OpenReview submission site: [OpenReview](https://openreview.net/group?id=learningtheory.org/COLT/2025/Workshop/FoPt#tab-your-consoles)
+OpenReview submission site: [OpenReview](https://openreview.net/group?id=learningtheory.org/COLT/2026/Workshop/FoPt)

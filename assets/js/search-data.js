@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-call-for-abstracts",
           title: "Call for abstracts",
-          description: "FoPt 2025 welcomes submissions in a single non-archival track",
+          description: "FoPt 2026 welcomes submissions in a single non-archival track",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cfp/";
@@ -426,21 +426,11 @@ ninja.data = [{
           section: "News",},{id: "news-workshop",
           title: 'Workshop',
           description: "",
-          section: "News",},{id: "organizers-adam-block",
-          title: 'Adam Block',
-          description: "",
-          section: "Organizers",handler: () => {
-              window.location.href = "/organizers/adam/";
-            },},{id: "organizers-akshay-krishnamurthy",
+          section: "News",},{id: "organizers-akshay-krishnamurthy",
           title: 'Akshay Krishnamurthy',
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/akshay/";
-            },},{id: "organizers-audrey-huang",
-          title: 'Audrey Huang',
-          description: "",
-          section: "Organizers",handler: () => {
-              window.location.href = "/organizers/audrey/";
             },},{id: "organizers-ayush-sekhari",
           title: 'Ayush Sekhari',
           description: "",
@@ -501,21 +491,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "speakers-csaba-szepesvári",
-          title: 'Csaba Szepesvári',
-          description: "",
-          section: "Speakers",handler: () => {
-              window.location.href = "/speakers/csaba/";
-            },},{id: "speakers-sadhika-malladi",
-          title: 'Sadhika Malladi',
-          description: "",
-          section: "Speakers",handler: () => {
-              window.location.href = "/speakers/sadhika/";
-            },},{id: "speakers-samy-jelassi",
-          title: 'Samy Jelassi',
-          description: "",
-          section: "Speakers",handler: () => {
-              window.location.href = "/speakers/samy/";
             },},{
         id: 'social-email',
         title: 'email',

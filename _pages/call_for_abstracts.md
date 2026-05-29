@@ -11,29 +11,25 @@ The Second Workshop on the Foundations of Post-training (FoPt 2026) invites subm
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 
-1. **Computational and statistical foundations of alignment**
-   - Fine-tuning algorithms
+1. **Theoretical foundations of post-training and reasoning**
+   - Fine-tuning methods
    - Inference-time methods
-   - Interactions between pre-training and post-training
+   - Interaction between pre-training and post-training
 2. **Optimization landscape of post-training**
-   - Stability of fine-tuning methods
-   - Convergence guarantees
-3. **New and old models of supervision**
-   - Alternative forms of feedback, such as comparisons and corrections
-   - Offline vs interactive feedback
-   - Demonstration or chain-of-thought design
-4. **Guarantees for emerging learning paradigms**
+   - Stability and convergence guarantees
+   - Theoretical insights into the loss landscape of post-training
+   - Insights into optimizers
+3. **Emerging learning paradigms**
+   - Self-improvement
+   - Curriculum and continual learning
    - Weak-to-strong generalization
-   - Self-improvement and self-correction
-   - Multi-agent learning
-   - prompt or retrieval-based adaptation
-5. **Novel frameworks and abstractions for post-training**
+   - Multi-agent interaction
+4. **Novel frameworks and abstractions for post-training**
    - Models for LLM reasoning abilities, such as chain-of-thought
    - Formalizations for new forms of generalization, e.g., in-context learning and length generalization
-6. **Other topics**
-   - RL / bandits frameworks for LLM fine-tuning
+5. **Other topics**
+   - Scientific studies of model behavior
    - Representational abilities of transformers
-   - Theoretical foundations of LLMs
 
 ### Important dates
 

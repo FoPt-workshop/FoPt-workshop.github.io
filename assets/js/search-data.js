@@ -16,14 +16,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cfp/";
           },
-        },{id: "nav-accepted-abstracts",
-          title: "Accepted abstracts",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/accepted-abstracts/";
-          },
-        },{id: "nav-speakers",
+        },{id: "dropdown-2026",
+              title: "2026",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/accepted-abstracts/2026/";
+              },
+            },{id: "dropdown-2025",
+              title: "2025",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/accepted-abstracts/2025/";
+              },
+            },{id: "nav-speakers",
           title: "Speakers",
           description: "",
           section: "Navigation",

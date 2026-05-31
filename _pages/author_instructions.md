@@ -12,7 +12,7 @@ Here are the pertinent details:
 ### Workshop details
 
 **Date:** Monday, 29th June, 2026 <br>
-**Location:** San Diego, USA (venue TBD) <br>
+**Location:** Bahia Resort, San Diego, USA <br>
 **Tentative schedule:** TBD
 
 <br>

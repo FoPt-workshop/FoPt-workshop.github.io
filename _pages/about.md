@@ -34,7 +34,7 @@ As a part of FoPt 2026, we invite abstract submissions to a single non-archival 
 ## Workshop details
 
 **Date:** Monday, 29th June, 2026 <br>
-**Location:** San Diego, USA (venue TBD) <br>
+**Location:** Bahia Resort, San Diego, USA <br>
 **Schedule:** <br>
 
 Detailed schedule TBD.

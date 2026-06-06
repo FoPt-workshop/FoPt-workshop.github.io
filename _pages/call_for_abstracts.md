@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-The Second Workshop on the Foundations of Post-training (FoPt 2026) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Paper submissions are due on **Friday, June 12th, 2026**.
+The Second Workshop on the Foundations of Post-training (FoPt 2026) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Paper submissions are due on **Saturday, June 13th, 2026**.
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 
@@ -35,7 +35,7 @@ The workshop solicits contributions addressing fundamental questions related to 
 
 (All dates are in 2026)
 
-- Submission deadline: Friday, June 12th, 11:59 PM UTC
+- Submission deadline: Saturday, June 13th, 11:59 PM ET
 - Author notification: Friday, June 19th
 - Workshop date: Monday, June 29th
 
@@ -63,6 +63,6 @@ For papers which have previously appeared at a conference/journal/workshop/Arxiv
 
 ### Submitting your paper
 
-Abstracts should be submitted through OpenReview; the deadline for submissions is **Friday, June 12th, 2026, 11:59 PM UTC**.
+Abstracts should be submitted through OpenReview; the deadline for submissions is **Saturday, June 13th, 2026, 11:59 PM ET**.
 
 OpenReview submission site: [OpenReview](https://openreview.net/group?id=learningtheory.org/COLT/2026/Workshop/FoPt)

@@ -13,7 +13,13 @@ Here are the pertinent details:
 
 **Date:** Monday, 29th June, 2026 <br>
 **Location:** Bahia Resort, San Diego, USA <br>
-**Tentative schedule:** TBD
+**Tentative schedule:**
+
+| **Duration** | **Activity** |
+|:------------:|:------------:|
+| 35 + 5 min   | Invited talk: [Niladri Chatterji](https://niladri-chatterji.github.io/) |
+| 35 + 5 min   | Invited talk: [Aviral Kumar](https://aviralkumar2907.github.io/) |
+| 35 + 5 min   | Invited talk: [Zak Mhammedi](https://www.zakmhammedi.com/) |
 
 <br>
 

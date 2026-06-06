@@ -27,9 +27,9 @@ speaker_horizontal: false
 organizer_horizontal: true
 ---
 
-Welcome to the homepage of the second workshop on the Foundations of Post-training (FoPt 2026). FoPt is located at COLT 2026 and will be organized in San Diego, USA on the 29th of June, 2026. This workshop seeks to explore the theoretical and practical aspects of the post-training of LLMs, across a diversity of domains and abstractions. The workshop aims to bring together experts from diverse fields including theoretical reinforcement learning, optimization, statistical learning theory, as well as more empirical directions, to identify critical research opportunities.
+Welcome to the homepage of the second workshop on the Foundations of Post-training (FoPt 2026). FoPt is located at COLT 2026 and will be organized in San Diego, USA on the 29th of June, 2026. This workshop seeks to explore the theoretical and practical aspects of post-training and reasoning in LLMs, across a diversity of domains and abstractions. The workshop aims to bring together experts from diverse theoretical and practical areas to identify critical research opportunities.
 
-As a part of FoPt 2026, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Friday, June 12th, 2026**.<br>
+As a part of FoPt 2026, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Saturday, June 13th, 2026**.<br>
 
 ## Workshop details
 
@@ -37,13 +37,25 @@ As a part of FoPt 2026, we invite abstract submissions to a single non-archival 
 **Location:** Bahia Resort, San Diego, USA <br>
 **Schedule:** <br>
 
+| **Duration** | **Activity** |
+|:------------:|:------------:|
+| 35 + 5 min   | Invited talk: [Niladri Chatterji](https://niladri-chatterji.github.io/) |
+| 35 + 5 min   | Invited talk: [Aviral Kumar](https://aviralkumar2907.github.io/) |
+| 35 + 5 min   | Invited talk: [Zak Mhammedi](https://www.zakmhammedi.com/) |
+
 Detailed schedule TBD.
 
 <br>
 
 ## Invited Speakers
 
-Invited speakers will be announced soon. Stay tuned!
+{% assign sorted_speakers = site.speakers | sort: "importance" %}
+
+<div style="margin-top: 20px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center">
+  {% for speaker in sorted_speakers %}
+    {% include speakers.liquid %}
+  {% endfor %}
+</div>
 <br><br>
 
 ## Organizers

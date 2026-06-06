@@ -20,11 +20,16 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info:
   - align: right
+    image: bingbin.jpg
+    content: bingbin.md
+    image_circular: true # crops the image to make it circular
+    more_info:
+  - align: left
     image: akshay.jpg
     content: akshay.md
     image_circular: true # crops the image to make it circular
     more_info:
-  - align: left
+  - align: right
     image: dylan.jpg
     content: dylan.md
     image_circular: true # crops the image to make it circular

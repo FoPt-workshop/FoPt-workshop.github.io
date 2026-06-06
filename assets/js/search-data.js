@@ -432,6 +432,11 @@ ninja.data = [{
           description: "",
           section: "Organizers",handler: () => {
               window.location.href = "/organizers/ayush/";
+            },},{id: "organizers-bingbin-liu",
+          title: 'Bingbin Liu',
+          description: "",
+          section: "Organizers",handler: () => {
+              window.location.href = "/organizers/bingbin/";
             },},{id: "organizers-dylan-foster",
           title: 'Dylan Foster',
           description: "",
@@ -487,12 +492,27 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "speakers-aviral-kumar",
+          title: 'Aviral Kumar',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/aviral/";
+            },},{id: "speakers-niladri-s-chatterji",
+          title: 'Niladri S. Chatterji',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/niladri/";
+            },},{id: "speakers-zak-mhammedi",
+          title: 'Zak Mhammedi',
+          description: "",
+          section: "Speakers",handler: () => {
+              window.location.href = "/speakers/zak/";
             },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%66%6F%70%74%32%30%32%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+          window.open("mailto:%66%6F%70%74.%77%6F%72%6B%73%68%6F%70@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-x',

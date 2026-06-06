@@ -37,11 +37,11 @@ As a part of FoPt 2026, we invite abstract submissions to a single non-archival 
 **Location:** Bahia Resort, San Diego, USA <br>
 **Schedule:** <br>
 
-| **Duration** | **Activity** |
-|:------------:|:------------:|
-| 35 + 5 min   | Invited talk: [Niladri Chatterji](https://niladri-chatterji.github.io/) |
-| 35 + 5 min   | Invited talk: [Aviral Kumar](https://aviralkumar2907.github.io/) |
-| 35 + 5 min   | Invited talk: [Zak Mhammedi](https://www.zakmhammedi.com/) |
+| **Duration** |                              **Activity**                               |
+| :----------: | :---------------------------------------------------------------------: |
+|  35 + 5 min  | Invited talk: [Niladri Chatterji](https://niladri-chatterji.github.io/) |
+|  35 + 5 min  |    Invited talk: [Aviral Kumar](https://aviralkumar2907.github.io/)     |
+|  35 + 5 min  |       Invited talk: [Zak Mhammedi](https://www.zakmhammedi.com/)        |
 
 Detailed schedule TBD.
 

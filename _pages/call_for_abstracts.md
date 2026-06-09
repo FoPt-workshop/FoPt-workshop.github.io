@@ -65,4 +65,4 @@ For papers which have previously appeared at a conference/journal/workshop/Arxiv
 
 Abstracts should be submitted through OpenReview; the deadline for submissions is **Saturday, June 13th, 2026, 11:59 PM ET**.
 
-OpenReview submission site: [OpenReview](https://openreview.net/group?id=learningtheory.org/COLT/2026/Workshop/FoPt)
+OpenReview submission site: [OpenReview](https://openreview.net/group?id=learningtheory.org/COLT/2026/Workshop)

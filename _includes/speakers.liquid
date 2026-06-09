@@ -6,7 +6,7 @@
         {% if speaker.horizontal %}
           class="horizontal-speaker"
         {% endif %}
-        style="margin-top: -{{speaker.mt}}px; margin-left: -{{speaker.ml}}px"
+        style="margin-top: {{ speaker.mt | default: 0 | times: -1 }}px; margin-left: {{ speaker.ml | default: 0 | times: -1 }}px"
       >
         {%
           include figure.liquid

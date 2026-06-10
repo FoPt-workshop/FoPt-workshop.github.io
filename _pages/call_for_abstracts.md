@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-The Second Workshop on the Foundations of Post-training (FoPt 2026) invites submissions of abstracts addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submitted abstracts can be up to one page long, and accepted abstracts will be presented as posters at the workshop. Paper submissions are due on **Saturday, June 13th, 2026**.
+The Second Workshop on the Foundations of Post-training (FoPt 2026) invites one-page abstract submissions addressing theoretical and empirical challenges in post-training, in a single non-archival track. We only accept one-page abstracts (excluding references); full paper submissions are not accepted. Accepted abstracts will be presented as posters at the workshop. Abstract submissions are due on **Saturday, June 13th, 2026**.
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 
@@ -41,13 +41,13 @@ The workshop solicits contributions addressing fundamental questions related to 
 
 ### Dual submission policy
 
-Since the workshop is non-archival, FoPt invites submissions that may be substantially similar to abstracts/papers that have previously been published, accepted for publication, or submitted in parallel to a peer-reviewed conference or journal. Submitted abstracts need not be anonymized.
+Since the workshop is non-archival, FoPt welcomes one-page abstracts describing work that may be substantially similar to papers that have previously been published, accepted for publication, or submitted in parallel to a peer-reviewed conference or journal. Submitted abstracts need not be anonymized.
 
 ## Submission Instructions
 
 ### Formatting and anonymization
 
-Submitted abstracts are limited to one page, excluding references. Authors are permitted to submit papers which have already previously appeared in a conference, journal or workshop, or published to Arxiv. There is no formatting constraint for such submissions.
+Submitted abstracts are limited to one page, excluding references. Full paper submissions are not accepted.
 
 <!-- An additional supplementary file may be uploaded that can include unlimited appendices. Appendices must be uploaded as a separate file. -->
 
@@ -59,9 +59,7 @@ Submitted abstracts are limited to one page, excluding references. Authors are p
 
 - [LaTeX style files and template](https://learningtheory.org/colt2026/)
 
-For papers which have previously appeared at a conference/journal/workshop/Arxiv, there is no page limit or formatting constraint.
-
-### Submitting your paper
+### Submitting your abstract
 
 Abstracts should be submitted through OpenReview; the deadline for submissions is **Saturday, June 13th, 2026, 11:59 PM ET**.
 

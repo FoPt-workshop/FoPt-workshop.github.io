@@ -13,13 +13,12 @@ Here are the pertinent details:
 
 **Date:** Monday, 29th June, 2026 <br>
 **Location:** Bahia Resort, San Diego, USA <br>
-**Tentative schedule:**
+**Schedule:**
 
-| **Duration** |                              **Activity**                               |
-| :----------: | :---------------------------------------------------------------------: |
-|  35 + 5 min  | Invited talk: [Niladri Chatterji](https://niladri-chatterji.github.io/) |
-|  35 + 5 min  |    Invited talk: [Aviral Kumar](https://aviralkumar2907.github.io/)     |
-|  35 + 5 min  |       Invited talk: [Zak Mhammedi](https://www.zakmhammedi.com/)        |
+- 12:30 - 2:00 PM: Posters
+- 2:00 - 2:35 PM: [Aviral Kumar](https://aviralkumar2907.github.io/) (CMU)
+- 2:40 - 3:15 PM: [Zak Mhammedi](https://www.zakmhammedi.com/) (Google Research)
+- 3:20 - 4:00 PM: [Niladri Chatterji](https://niladri-chatterji.github.io/) (OpenAI)
 
 <br>
 

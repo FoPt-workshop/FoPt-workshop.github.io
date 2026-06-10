@@ -35,17 +35,12 @@ As a part of FoPt 2026, we invite abstract submissions to a single non-archival 
 
 **Date:** Monday, 29th June, 2026 <br>
 **Location:** Bahia Resort, San Diego, USA <br>
-{% comment %}
 **Schedule:** <br>
 
-| **Duration** |                              **Talk**                               |
-| :----------: | :---------------------------------------------------------------------: |
-|  35 + 5 min  | [Niladri Chatterji](https://niladri-chatterji.github.io/) |
-|  35 + 5 min  |    Invited talk: [Aviral Kumar](https://aviralkumar2907.github.io/)     |
-|  35 + 5 min  |       Invited talk: [Zak Mhammedi](https://www.zakmhammedi.com/)        |
-{% endcomment %}
-
-Detailed schedule TBD.
+- 12:30 - 2:00 PM: Posters
+- 2:00 - 2:35 PM: [Aviral Kumar](https://aviralkumar2907.github.io/) (CMU)
+- 2:40 - 3:15 PM: [Zak Mhammedi](https://www.zakmhammedi.com/) (Google Research)
+- 3:20 - 4:00 PM: [Niladri Chatterji](https://niladri-chatterji.github.io/) (OpenAI)
 
 <br>
 

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-The Second Workshop on the Foundations of Post-training (FoPt 2026) invites one-page abstract submissions addressing theoretical and empirical challenges in post-training, in a single non-archival track. We only accept one-page abstracts (excluding references); full paper submissions are not accepted. Accepted abstracts will be presented as posters at the workshop. Abstract submissions are due on **Saturday, June 13th, 2026**.
+The Second Workshop on the Foundations of Post-training (FoPt 2026) invites one-page abstract submissions addressing theoretical and empirical challenges in post-training, in a single non-archival track. Submissions must be one-page abstracts (excluding references). Accepted abstracts will be presented as posters at the workshop. Abstract submissions are due on **Saturday, June 13th, 2026**.
 
 The workshop solicits contributions addressing fundamental questions related to post-training in various levels of abstraction, including but not limited to the following topics of interest:
 

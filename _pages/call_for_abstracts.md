@@ -47,7 +47,7 @@ Since the workshop is non-archival, FoPt welcomes one-page abstracts describing 
 
 ### Formatting and anonymization
 
-Submitted abstracts are limited to one page, excluding references. Full paper submissions are not accepted.
+Submitted abstracts are limited to one page, excluding references. Submissions may include an optional appendix, but reviewers are not required to read the appendix.
 
 <!-- An additional supplementary file may be uploaded that can include unlimited appendices. Appendices must be uploaded as a separate file. -->
 

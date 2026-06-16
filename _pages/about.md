@@ -29,7 +29,7 @@ organizer_horizontal: true
 
 Welcome to the homepage of the second workshop on the Foundations of Post-training (FoPt 2026). FoPt is located at COLT 2026 and will be organized in San Diego, USA on the 29th of June, 2026. This workshop seeks to explore the theoretical and practical aspects of post-training and reasoning in LLMs, across a diversity of domains and abstractions. The workshop aims to bring together experts from diverse theoretical and practical areas to identify critical research opportunities.
 
-As a part of FoPt 2026, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Saturday, June 13th, 2026**.<br>
+As a part of FoPt 2026, we invite abstract submissions to a single non-archival track. See our [call for abstracts](https://fopt-workshop.github.io/cfp/) for more details. The submission deadline is **Monday, June 15th, 2026 (Anywhere on Earth)**.<br>
 
 ## Workshop details
 

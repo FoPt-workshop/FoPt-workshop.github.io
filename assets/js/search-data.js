@@ -413,8 +413,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/samy/";
-            },},{id: "news-paper-submission-deadline",
-          title: 'Paper submission deadline',
+            },},{id: "news-paper-submission-deadline-june-15th-11-59-pm-aoe",
+          title: 'Paper submission deadline (June 15th, 11:59 PM AoE)',
           description: "",
           section: "News",},{id: "news-author-notification",
           title: 'Author notification',

@@ -6,4 +6,10 @@ description: Abstracts accepted to FoPt 2026
 nav: false
 ---
 
-Accepted abstracts for FoPt 2026 will be announced after the author notification deadline (**Friday, June 19th, 2026**). Check back soon!
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography -q @*[year=2026] %}
+
+</div>
